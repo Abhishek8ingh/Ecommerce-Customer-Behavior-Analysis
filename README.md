@@ -27,7 +27,7 @@ The dashboard provides insights into the following areas:
 * **Calculations:** DAX (Data Analysis Expressions)
 
 ## 📸 Screenshots
-![Dashboard Screenshot](path_to_your_image.png)
+![Dashboard Screenshot](https://github.com/Abhishek8ingh/Ecommerce-Customer-Behavior-Analysis/blob/main/image/ss.png?raw=true.png)
 
 ## 👤 Author
 **[Abhishek Singh]**
